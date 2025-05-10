@@ -10,6 +10,13 @@
 > 💬 "No middlemen. No spying. Just you and your encrypted vault in the cloud."
 
 ---
+🚀 Live in Action: Experience the decentralized revolution firsthand!
+
+Head over to our official live deployment at d-cloudx.vercel.app and explore how D-Cloud empowers you with full control over your data. From seamless uploads to AI-driven optimization, everything’s just a click away — no middlemen, no compromises.
+
+"Apna data, apni marzi – ab cloud bhi tera slave hai."
+
+--- 
 
 ## 🌟 Key Features
 
