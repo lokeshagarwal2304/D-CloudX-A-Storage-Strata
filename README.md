@@ -1,8 +1,6 @@
 # 🌐 D-CLOUD – Decentralized Cloud Storage System (Web3 x AI)
 
-> **"Tera data, tere haath. Ab sirf storage nahi, ownership bhi milegi."**  
 > 🔐 Powered by **Web3**, built for the **Future**, inspired by **Freedom**.
-
 ---
 
 ## 🚀 Overview
