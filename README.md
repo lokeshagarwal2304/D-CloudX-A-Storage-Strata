@@ -100,8 +100,6 @@ npm start
 
 ## 💬 Connect with the Creator
 
-Made with 💖 by **Luv a.k.a Techiee**
-
 * 🌐 [LinkedIn](https://linkedin.com/in/lokeshagarwal2304)
 * 📷 [Instagram](https://instagram.com/_lokesh._.agarwal_)
 * 🐦 [Twitter](https://twitter.com/lokeshagarwal2304)
