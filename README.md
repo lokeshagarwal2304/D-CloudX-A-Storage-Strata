@@ -96,10 +96,6 @@ npm install
 # Run the project
 npm start
 ```
-
-🌐 Visit live demo: [https://dcloud.techiee.io](https://dcloud.techiee.io) *(if hosted)*
-📷 Demo GIFs and walkthroughs in `/docs/demo`
-
 ---
 
 ## 💬 Connect with the Creator
