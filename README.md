@@ -107,7 +107,7 @@ npm start
 ```
 ---
 
-## 💬 Connect with the Creator
+## 💬 Connect with the Creator & Developing Team
 
 * 🌐 [LinkedIn](https://linkedin.com/in/lokeshagarwal2304)
 * 📷 [Instagram](https://instagram.com/_lokesh._.agarwal_)
