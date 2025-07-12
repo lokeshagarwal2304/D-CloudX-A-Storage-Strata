@@ -90,7 +90,8 @@ graph TD
 
 ---
 
-## 🎯 Demo & Deployment
+## 🎯 Demo & Deployment:
+
 
 ```bash
 # Clone the repo
